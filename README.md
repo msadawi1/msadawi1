@@ -1,11 +1,4 @@
-- Currently learning ExpressJS for backend
-- Started Web Development using Flask and Bootstrap in 2024
-- Experience in C, C++, Python, JavaScript
-- Looking forward to learn advanced CSS
-- My Linkedin: https://www.linkedin.com/in/mohammed-sadawi-13b176207/
-- My Frontend Mentor profile (I constantly upload frontend solutions there): https://www.frontendmentor.io/profile/msadawi1
-
-<!---
-msadawi1/msadawi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Full-stack Developer
+- React • ExpressJS • NodeJS • PostgreSQL
+- My LinkedIn: https://www.linkedin.com/in/mohammed-sadawi-13b176207/
+- My Frontend Mentor profile (I often upload frontend solutions there): https://www.frontendmentor.io/profile/msadawi1
