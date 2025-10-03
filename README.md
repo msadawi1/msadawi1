@@ -1,4 +1,4 @@
-- Full-stack Developer
-- React • ExpressJS • NodeJS • PostgreSQL
+- Full-stack Developer interested in Agentic AI solutions
+- React • ExpressJS • NodeJS • PostgreSQL • Python • AI 
 - My LinkedIn: https://www.linkedin.com/in/mohammed-sadawi-13b176207/
 - My Frontend Mentor profile (I often upload frontend solutions there): https://www.frontendmentor.io/profile/msadawi1
