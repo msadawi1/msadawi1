@@ -1,4 +1,4 @@
-- Full-stack Developer interested in Agentic AI solutions
+- Software Engineering Student and Full-stack Developer
 - Spring • React • ExpressJS • NodeJS • PostgreSQL • Python • Claude Code • Automation
 - My LinkedIn: https://www.linkedin.com/in/mohammed-alsadawi-13b176207/
 - My Frontend Mentor profile (I often upload frontend solutions there): https://www.frontendmentor.io/profile/msadawi1
